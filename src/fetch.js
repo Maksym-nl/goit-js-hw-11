@@ -1,7 +1,7 @@
 import axios from 'axios';
 import Notiflix from 'notiflix';
 
-const API_KEY = '36713160 ';
+const API_KEY = '36713160-b8ce690bed289b735a8a8bdcb';
 const URL = 'https://pixabay.com/api/';
 
 export async function fetchImages(options) {
