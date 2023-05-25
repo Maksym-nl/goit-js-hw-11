@@ -1,7 +1,7 @@
 import SimpleLightbox from "simplelightbox";
 import "simplelightbox/dist/simple-lightbox.min.css";
 import throttle from 'lodash.throttle';
-import Notiflix from 'Notiflix'
+import Notiflix from 'notiflix'
 import { fetchImages } from './fetch';
 import { createImagesMarkup } from './createmarkup';
 
